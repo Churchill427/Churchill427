@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm CHURCHILL L</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
-<p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="churchill427" /> </p>
+<h1 align="center">Hi 👋, I'm Churchill</h1>
+<hr>
+<p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="Churchill" /> </p>
+<h3 align="center"><b></b>A passionate DATA ANALYST  from India</b></h3><hr>
+<img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif")>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=churchill427" alt="churchill427" /></a> </p>
 
