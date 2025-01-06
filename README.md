@@ -3,9 +3,6 @@
 <p align="left"> <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="Churchill" /> </p>
 <h3 align="center"><b></b>A passionate DATA ANALYST  from India</b></h3><hr>
 <img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif")>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=churchill427" alt="churchill427" /></a> </p>
-
 - 🔭 I’m currently working on **ANDROID DEVELOPMENT**
 
 - 🌱 I’m currently learning **Artificial Intelligence And Data Science**
@@ -17,6 +14,9 @@
 - 💬 Ask me about **React Native,Power Bi**
 
 - 📫 How to reach me **l.churchill427@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=churchill427" alt="churchill427" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
